@@ -1,35 +1,46 @@
-# building-a-Balance-sheet
+# **Balance Sheet Project**
 
-This website was built using Free Code Camp instructions: Learn About CSS pseudo selectors to change specific HTML elements.
+## **Project Overview**
 
-Section: Responsive Web Design
+#### This Project Is A **Balance Sheet**, Developed As Part of The FreeCodeCamp Curriculum. 
 
+#### The Primary Goal Is Learn More About CSS Pseudo Selectors By Building A Balance Sheet.
 
-Course Name: Learn About CSS pseudo selectors to change specific HTML elements.
+## **Course Details**
 
-Deatils:
++ **Course Section**: Responsive Web Design.
+  
++ **Project Name**:  Balance Sheet.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In Responsive Web Design.
 
-You can use CSS pseudo selectors to change specific HTML elements.
+## **Purpose**
 
-In this course, you'll build a balance sheet using pseudo selectors. 
+You Can Use CSS Pseudo Selectors To Change Specific HTML Elements.  
 
-You'll learn how to change the style of an element when you hover over it with your mouse, and trigger other events on your webpage.
+In This Course, You'll Build A Balance Sheet Using Pseudo Selectors. 
 
-Link:
+You'll Learn How To Change The Style Of An Element When You Hover Over It With Your Mouse, And Trigger Other Events On Your Webpage.
 
-https://www.freecodecamp.org/
+## **Acknowledgment**
 
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
+**All rights** To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-on Projects.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I Am Showcasing This Project As Part of My Learning Journey, Completed Based on FreeCodeCamp's Resources And Guidance.
 
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
+## **Special Thanks**
 
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
+**[@codeManS](https://www.youtube.com/@codeManS)**
 
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
 
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
